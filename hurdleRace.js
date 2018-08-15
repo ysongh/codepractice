@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/the-hurdle-race/problem
 // Find the number of potion needed to jump the maxiumn height. Each potion increase height by 1.
 
 let height = [1, 2, 3, 3, 2];

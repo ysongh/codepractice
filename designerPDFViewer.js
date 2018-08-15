@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
 // Given a list of letter heights in the alphabet and a string. Using the letter heights given, 
 // determine the area of the rectangle highlight in mm2 assuming all letters are 1mm wide
 
